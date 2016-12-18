@@ -14,6 +14,9 @@
             console.log("function ready");
         });
     </script>
+
+    <asp:SqlDataSource ID="permitTypeSource" runat="server" ConnectionString="<%$ ConnectionStrings:PermitPurchases %>" SelectCommand="SELECT * FROM [permits]"></asp:SqlDataSource>
+
     <asp:MultiView ID="purchasePermitMultiView" ActiveViewIndex="0" runat="server">
 
         <asp:View ID="permitDetails" runat="server">
@@ -22,11 +25,12 @@
                 <p class="contentLabel">
                     <asp:Label ID="lbltype" for="permitType" runat="server" Text="Permit Type:<span class='requiredField'>*</span>"></asp:Label>
                 </p>
-                <asp:DropDownList ID="permitType" runat="server">
-                    <asp:ListItem Value="" Selected="True">-- Please Select --</asp:ListItem>
+                <asp:DropDownList ID="permitType" runat="server"  DataSourceID="permitTypeSource" DataTextField="type" DataValueField="type">
+                    <%--<asp:ListItem Value="" Selected="True">-- Please Select --</asp:ListItem>
                     <asp:ListItem Value="Yellow">Yellow</asp:ListItem>
                     <asp:ListItem Value="Blue">Blue</asp:ListItem>
                     <asp:ListItem Value="Red">Red</asp:ListItem>
+                    <asp:ListItem Value="Green">Green</asp:ListItem>--%>
                 </asp:DropDownList>
                 <asp:RequiredFieldValidator ID="permitTypeValidator" Display="Dynamic" ControlToValidate="permitType" ForeColor="#cc0000" runat="server" ErrorMessage="This field is Required"></asp:RequiredFieldValidator>
 
@@ -80,7 +84,7 @@
                     <asp:Label for="cardNumber" runat="server" Text="Card Number:<span class='requiredField'>*</span>"></asp:Label></p>
                 <asp:TextBox ID="cardNumber" placeholder="Card Number" runat="server"></asp:TextBox>
                 <asp:RequiredFieldValidator ID="cardNumberRequired" Display="Dynamic" ControlToValidate="cardNumber" ForeColor="#cc0000" runat="server" ErrorMessage="This field is Required"></asp:RequiredFieldValidator>
-                <asp:RegularExpressionValidator ID="patternValidatorCardNumber" Display="Dynamic" ForeColor="#cc0000" ControlToValidate="cardNumber" ValidationExpression="[0-9]{1,16}" runat="server" ErrorMessage="Card Number must be 16 digits ONLY"></asp:RegularExpressionValidator>
+                <asp:RegularExpressionValidator ID="patternValidatorCardNumber" Display="Dynamic" ForeColor="#cc0000" ControlToValidate="cardNumber" ValidationExpression="[0-9]{16}" runat="server" ErrorMessage="Card Number must be 16 digits ONLY"></asp:RegularExpressionValidator>
 
                 <p class="contentLabel">
                     <asp:Label for="expiryMonth" runat="server" Text="Card Expiry Month:<span class='requiredField'>*</span>"></asp:Label></p>

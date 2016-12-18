@@ -1,15 +1,22 @@
+<h2>Staff Login</h2>
+
+<ul>
+    <li>U: permits@westernsydney.edu.au</li>
+    <li>P: Pa$$word1</li>
+</ul>
+
 <h2>User Logins</h2>
 
 <ul>
-    <li>u:hashan@yahoo.com</li>
-    <li>p:Login@123</li>
+    <li>U: hashan@yahoo.com</li>
+    <li>P: Login@123</li>
 </ul>
 
 <ul>
-    <li>u:abc@gmail.com</li>
-    <li>p:Login@123</li>
+    <li>U: abc@gmail.com</li>
+    <li>P: Login@123</li>
 </ul>
 <ul>
-    <li>u:user@user.com.au</li>
-    <li>p:Login@123</li>
+    <li>U: user@user.com.au</li>
+    <li>P: Login@123</li>
 </ul>
