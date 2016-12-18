@@ -1,0 +1,1186 @@
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Owin.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+C:\Users\Home\Documents\Visual Studio 2015\C# Essential\Just Funs\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+F:\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+F:\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+F:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+F:\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+F:\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+F:\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+F:\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+F:\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+F:\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+F:\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+F:\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+F:\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+F:\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+F:\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+F:\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+F:\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+F:\ParkingPermit\ParkingPermit\bin\Owin.dll
+F:\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+F:\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+F:\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+F:\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+F:\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+F:\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+F:\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+F:\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+E:\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+E:\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+E:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+E:\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+E:\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+E:\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+E:\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+E:\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+E:\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+E:\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+E:\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+E:\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+E:\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+E:\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+E:\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+E:\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+E:\ParkingPermit\ParkingPermit\bin\Owin.dll
+E:\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+E:\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+E:\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+E:\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+E:\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+E:\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+E:\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+E:\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+E:\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Owin.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+C:\Users\Home\Documents\Visual Studio 2015\Projects\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Owin.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+C:\Users\Hashan\Desktop\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Owin.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+F:\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Owin.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Owin.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Owin.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+C:\Users\Home\Desktop\NEW ASSIGNMENT\NEW ASSIGNMENT - 05082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Owin.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+E:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Owin.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+F:\NEW ASSIGNMENT\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Owin.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 13082016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Owin.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+D:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Owin.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+F:\ParkingPermit\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ApplicationInsights.config
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\csc.exe
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\System.Collections.Immutable.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\System.Reflection.Metadata.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\vbc.exe
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\roslyn\VBCSCompiler.exe.config
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll.config
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ParkingPermit.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\ParkingPermit.pdb
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.bootstrap.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\AspNet.ScriptManager.jQuery.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Agent.Intercept.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ScriptManager.WebForms.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Web.Infrastructure.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Owin.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\WebGrease.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.DependencyCollector.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.Web.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AI.WindowsServer.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.ApplicationInsights.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Optimization.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Antlr3.Runtime.pdb
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Newtonsoft.Json.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\EntityFramework.SqlServer.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Core.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.Owin.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\System.Web.Providers.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Host.SystemWeb.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Facebook.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Cookies.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Google.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.Twitter.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\Microsoft.Owin.Security.OAuth.xml
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.csprojResolveAssemblyReference.cache
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.dll
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\obj\Debug\ParkingPermit.pdb
+F:\ParkingPermit\Prac3\NEW ASSIGNMENT - 19092016\ParkingPermit\ParkingPermit\bin\AjaxControlToolkit.dll

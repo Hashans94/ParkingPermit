@@ -1,0 +1,157 @@
+﻿/* Move down content because we have a fixed navbar that is 50px tall */
+body {
+    padding-top: 50px;
+    padding-bottom: 20px;
+}
+
+/* Wrapping element */
+/* Set some basic padding to keep content from hitting the edges */
+.body-content {
+    padding-left: 15px;
+    padding-right: 15px;
+    margin:3% auto 0;
+}
+
+/* Override the default bootstrap behavior where horizontal description lists 
+   will truncate terms that are too long to fit in the left column 
+*/
+.dl-horizontal dt {
+    white-space: normal;
+}
+
+/* Set widths on the form inputs since otherwise they're 100% wide */
+input[type="text"],
+input[type="password"],
+input[type="email"],
+input[type="number"],
+input[type="tel"] {
+    width: 300px;
+    height: 35px;
+    margin: 0 0 10px;
+    border: 2px solid #0DA8Db;
+    box-sizing: border-box;
+    padding: 10px;
+}
+select{
+    width: 300px;
+    height: 35px;
+    margin: 0 0 10px;
+    border: 2px solid #0DA8Db;
+    box-sizing: border-box;
+    padding-left: 4px;
+}
+p{
+    margin:10px 0 0;
+}
+.contentLabel{
+    font-size: 16px;
+    /* text-transform: uppercase; */
+    font-weight: bold;
+}
+
+.contentLabel .summaryContent{
+    color:#0DA8Db;
+    font-weight:600;
+
+}
+
+#MainContent_dateOfBirth, .commonCalendar{
+    border: 2px solid #0DA8Db !important;
+        width: 300px;
+}
+
+#MainContent_dateOfBirth tr td a:hover,
+.commonCalendar tr td a:hover {
+    color: #fff !important;
+}
+
+.nextButton, .prevButton{
+    box-sizing: border-box;
+    padding: 6px;
+    background: white;
+    border: 2px solid #0DA8DB;
+    width: 110px;
+    color: #0DA8DB;
+    transition:all ease-in .3s;
+    font-weight:bold;
+}
+
+input#MainContent_submitButton {
+    margin-top: 35px;
+}
+
+input.edit-button {
+    background: none;
+    border: none;
+    float: right;
+    font-family: Helvetica, Helvetica Neue, Arial, Sans-serif;
+}
+
+span.button-cover {
+    width: 125px;
+    height: 40px;
+    line-height: 1.75;
+    float: right;
+}
+
+.lbl-summary{
+    padding-top: 35px;
+}
+
+.nextButton:hover, .nextButton:focus, .prevButton:hover, .prevButton:focus{
+    background: #0DA8DB;
+    color: #fff;
+   
+}
+
+#MainContent_dateOfBirth tbody:first-child,
+.commonCalendar tbody:first-child {
+    background-color: #0DA8Db;
+    color:#fff;
+    font-weight: bold;
+
+}
+
+.requiredField{
+    color:red;
+}
+
+.validations{
+    color:#cc0000;
+}
+
+.staff-nav {
+    background-color: #FF530D;
+}
+input[type="text"].newTextBox {
+    border: 2px solid #FF530D;
+    width: 190px;
+}
+
+select.staffSelectBox{
+     border: 2px solid #FF530D;
+}
+
+/*input[type="submit"],
+input[type="button"]{
+    border:none;
+}*/
+input[type="submit"]:hover, input[type="button"]:hover {
+    box-shadow: 0 0 5px 0.5px rgba(0,0,0,0.3);
+}
+
+
+/*#BodyContent{
+    margin-top:200px;
+}*/
+
+
+/* Responsive: Portrait tablets and up */
+@media screen and (min-width: 768px) {
+    .jumbotron {
+        margin-top: 20px;
+    }
+    .body-content {
+        padding: 0;
+    }
+}
